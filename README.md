@@ -6,3 +6,5 @@ If you have learned about SOLID principles, you may have read about Dependency I
 
 - High-level modules should not depend on low-level modules. Both should depend on abstractions.
 Just remember not to add dependencies to the outer modules from the inner ones.
+
+![ScreenShot](https://github.com/aleesha711/FakeLocations/blob/master/screenshot.png)
